@@ -1,21 +1,47 @@
-# Olá, I'm João 👋
-
-Developer from Portugal 🇵🇹 — and a runner. When those two things collide, I end up building my own tools.
-
-## 🛠️ Languages & tools
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+# Hi, I'm João Reis 👋
+ 
+Computer Engineering student at the **Polytechnic of Leiria (IPLeiria)**, Portugal, with a strong foundation from a 3-year vocational program in Programming & IT Systems Management (final grade: 18/20).
+ 
+I enjoy building things end to end — from test automation and backend integrations to machine learning experiments. Currently exploring **AI / Machine Learning** while sharpening my software engineering skills.
+ 
+---
+ 
+### 🔭 What I'm working on
+- 🏃 **[Race Track Analytics](https://racetrackanalytics.com)** — a web platform for trail runners: GPX analysis, elevation profiles, weather forecasting and nutrition planning.
+### 💼 Experience
+- **QA & Test Automation Intern** @ VOID Software — Cypress, Gherkin, manual testing, Agile.
+- **Software Developer Intern** @ Open Source Integrators — Odoo, Python, API integration, open-source contribution.
+---
+ 
+### 🛠️ Tech Stack
+ 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=nextdotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
+ 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+ 
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)
+ 
 ---
-
-<p align="center"><i>“The miracle isn't that I finished. The miracle is that I had the courage to start.” — John Bingham</i></p>
+ 
+### 📊 GitHub Stats
+ 
+![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=justreisz&show_icons=true&theme=default&hide_border=true)
+ 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=justreisz&layout=compact&hide_border=true)
+ 
+---
+ 
+### 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-reis-5588b4283/)
+ 
+<sub>📍 Leiria, Portugal</sub>
