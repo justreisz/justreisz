@@ -32,15 +32,7 @@ I enjoy building things end to end — from test automation and backend integrat
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)
  
 ---
- 
-### 📊 GitHub Stats
- 
-![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=justreisz&show_icons=true&theme=default&hide_border=true)
- 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=justreisz&layout=compact&hide_border=true)
- 
----
- 
+
 ### 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-reis-5588b4283/)
  
