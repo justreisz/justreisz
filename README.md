@@ -1,6 +1,6 @@
 # Hi, I'm João Reis 👋
  
-Computer Engineering student at the **Polytechnic of Leiria (IPLeiria)**, Portugal, with a strong foundation from a 3-year vocational program in Programming & IT Systems Management (final grade: 18/20).
+Computer Engineering student at the **Polytechnic of Leiria (IPLeiria)**, Portugal.
  
 I enjoy building things end to end — from test automation and backend integrations to machine learning experiments. Currently exploring **AI / Machine Learning** while sharpening my software engineering skills.
  
