@@ -1,12 +1,6 @@
 # Olá, I'm João 👋
 
-Developer from Portugal 🇵🇹 — and a runner chasing a sub-40 10K. When those two things collide, I end up building my own tools.
-
-## 🏃 What I'm building
-
-**Running AI Coach** — a local-first running analytics platform. It syncs everything from Garmin Connect into SQLite, tracks training load (CTL/ATL/TSB), analyses the weekly 80/20 intensity split, predicts race times (Riegel + Daniels VDOT adjusted by current form), and includes an AI coach with live tool access to the whole database and long-term memory across conversations.
-
-Built with Next.js 15 · TypeScript · Drizzle ORM · SQLite · AI SDK + Gemini · Recharts.
+Developer from Portugal 🇵🇹 — and a runner. When those two things collide, I end up building my own tools.
 
 ## 🛠️ Languages & tools
 
@@ -21,10 +15,6 @@ Built with Next.js 15 · TypeScript · Drizzle ORM · SQLite · AI SDK + Gemini 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
-## 📈 Off the keyboard
-
-~200 km/month on the road. Current mission: break 40 minutes at 10K, then survive my first race beyond that distance in 2026.
 
 ---
 
